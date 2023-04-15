@@ -1,0 +1,10 @@
+INSERT INTO veiculo (id, nome, marca, ano, descricao, vendido, created, updated) VALUES (1, 'Spin', 'Chevrolet', 2015, 'Chevrolet Spin LT Marrom', 0, '2023-04-14 18:30:00', '2023-04-14 18:30:00');
+INSERT INTO veiculo (id, nome, marca, ano, descricao, vendido, created, updated) VALUES (2, 'Onix', 'Chevrolet', 2017, 'Chevrolet Onix Preto', 1, '2023-04-14 18:30:00', '2023-04-14 18:30:00');
+INSERT INTO veiculo (id, nome, marca, ano, descricao, vendido, created, updated) VALUES (3, 'Cruze', 'Chevrolet', 2020, 'Chevrolet Cruze Marrom', 0, '2023-04-14 18:30:00', '2023-04-14 18:30:00');
+INSERT INTO veiculo (id, nome, marca, ano, descricao, vendido, created, updated) VALUES (4, 'Punto', 'FIAT', 2014, 'FIAT Punto Cinza', 1, '2023-04-14 18:30:00', '2023-04-14 18:30:00');
+INSERT INTO veiculo (id, nome, marca, ano, descricao, vendido, created, updated) VALUES (5, 'Tucson', 'Hyundai', 2018, 'Hyundai Tucson Preto', 0, '2023-04-14 18:30:00', '2023-04-14 18:30:00');
+INSERT INTO veiculo (id, nome, marca, ano, descricao, vendido, created, updated) VALUES (6, 'Renegade', 'Jeep', 2020, 'Jeep Renegade Marrom', 1, '2023-04-14 18:30:00', '2023-04-14 18:30:00');
+INSERT INTO veiculo (id, nome, marca, ano, descricao, vendido, created, updated) VALUES (7, 'S10', 'Chevrolet', 2005, 'Chevrolet S10 Verde', 0, '2023-04-14 18:30:00', '2023-04-14 18:30:00');
+INSERT INTO veiculo (id, nome, marca, ano, descricao, vendido, created, updated) VALUES (8, 'Sandero', 'Renault', 2014, 'Renault Sandero Vermelho', 1, '2023-04-14 18:30:00', '2023-04-14 18:30:00');
+INSERT INTO veiculo (id, nome, marca, ano, descricao, vendido, created, updated) VALUES (9, 'Compass', 'Jeep', 2020, 'Jeep Compass Preto', 0, '2023-04-14 18:30:00', '2023-04-14 18:30:00');
+INSERT INTO veiculo (id, nome, marca, ano, descricao, vendido, created, updated) VALUES (10, 'Gol', 'Volkswagen ', 2019, 'Volkswagen Gol Vermelho', 1, '2023-04-14 18:30:00', '2023-04-14 18:30:00');

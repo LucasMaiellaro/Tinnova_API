@@ -1,0 +1,9 @@
+create table veiculo
+	(id bigint not null auto_increment,
+    nome varchar(255),
+    marca varchar(255),
+    ano int,
+    descricao text,
+    vendido boolean,
+    created datetime,
+    updated datetime, primary key (id));
